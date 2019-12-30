@@ -21,6 +21,7 @@
 https://edu.vsu.ru/
 [текст](https://www.markdownguide.org)
 ![](https://avatars.mds.yandex.net/get-pdb/2078924/93382c30-e73a-48b5-ba4f-941bc7d185b8/s1200?webp=false) 
+
 1|2|3
  ---|:---:|---: 
 да|нет|не знаю 
